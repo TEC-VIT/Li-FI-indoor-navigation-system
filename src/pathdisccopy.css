@@ -1,0 +1,27 @@
+.big-div{
+background-color: black;
+color: white;
+background-size: 100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items:center ;
+}   
+.start-div{
+   display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: left;
+    width: 50vw;
+    padding: 20px;
+}
+.intput-boxes{
+    padding: 20px;
+}
+
+/* .end-div{
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+} */
